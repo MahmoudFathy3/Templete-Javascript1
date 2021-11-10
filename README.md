@@ -1,2 +1,0 @@
-# Templete JavaScript
- Templete JavaScript
